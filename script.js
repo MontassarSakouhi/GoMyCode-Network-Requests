@@ -5,7 +5,7 @@ document.querySelector('#btn').addEventListener('click',()=>{
     const clouds=document.querySelector('#clouds')
     const humidity=document.querySelector('#humidity')
     const name=document.querySelector('#name')
-    const api=`https://api.openweathermap.org/data/2.5/weather?q=${input}&appid=a7f6ddcbcdb7b8ea767e5cba77fb7fab&units=metric`
+    const api=`https://api.openweathermap.org/data/2.5/weather?q=${input}&appid=...&units=metric`
    
 
 
